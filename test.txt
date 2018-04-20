@@ -1,0 +1,6 @@
+// {/*<li key={index}>*/}
+                //     {/*<img width="100px" src={contact.img} alt=""/>*/}
+                //     {/*<span>{contact.name}</span>*/}
+                //     {/*<span>{contact.number}</span>*/}
+                //     {/*<button onClick={this.props.addLike(contact.id)}>Кол-во лайков - {contact.like}</button>*/}
+                // {/*</li>*/}
